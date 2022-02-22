@@ -1,0 +1,15 @@
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\bin\Debug\net6.0\Internship task.exe
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\bin\Debug\net6.0\Internship task.deps.json
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\bin\Debug\net6.0\Internship task.runtimeconfig.json
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\bin\Debug\net6.0\Internship task.dll
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\bin\Debug\net6.0\Internship task.pdb
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\obj\Debug\net6.0\Internship task.csproj.AssemblyReference.cache
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\obj\Debug\net6.0\Internship task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\obj\Debug\net6.0\Internship task.AssemblyInfoInputs.cache
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\obj\Debug\net6.0\Internship task.AssemblyInfo.cs
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\obj\Debug\net6.0\Internship task.csproj.CoreCompileInputs.cache
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\obj\Debug\net6.0\Internship task.dll
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\obj\Debug\net6.0\refint\Internship task.dll
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\obj\Debug\net6.0\Internship task.pdb
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\obj\Debug\net6.0\Internship task.genruntimeconfig.cache
+C:\Users\AA\Desktop\Mano failai\ReizTech\Internship task\Internship task\obj\Debug\net6.0\ref\Internship task.dll
